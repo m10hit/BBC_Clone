@@ -1,5 +1,5 @@
 # BBC_Clone
-The clone of the famous news website - BBC. It is a static website. 
+The clone of the famous news website - BBC. It is a static website which can be accessed from the link - https://m10hit.github.io/BBC_Clone/
 
 # Tools Used
 Used HTML5 and CSS3 to develop the clone of the news website BBC.
